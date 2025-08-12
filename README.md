@@ -22,6 +22,7 @@
 | [**NPUEval: Optimizing NPU Kernels with LLMs and Open Source Compilers**](https://arxiv.org/abs/2507.14403) <br> | arXiv | 2025.07 | - | NPU |
 | ![Star](https://img.shields.io/github/stars/thunlp/TritonBench.svg?style=social&label=Star) <br> [**TritonBench: Benchmarking Large Language Model Capabilities for Generating Triton Operators**](https://arxiv.org/abs/2502.14752) <br> | ICML | 2025.02 | [Github](https://github.com/thunlp/TritonBench) | Triton (CUDA) |
 | ![Star](https://img.shields.io/github/stars/ScalingIntelligence/KernelBench.svg?style=social&label=Star) <br> [**KernelBench: Can LLMs Write Efficient GPU Kernels?**](https://arxiv.org/abs/2502.10517) <br> | ICML | 2025.02 | [Github](https://github.com/ScalingIntelligence/KernelBench) | CUDA |
+| [**Comparing Llama-2 and GPT-3 LLMs for HPC kernels generation**](https://arxiv.org/abs/2309.07103) <br> | [LCPC](http://www.lcpcworkshop.org/LCPC23/) | 2023.09 | - |  |
 
 ## Others
 |  Title  |   Date   |   topic   |
