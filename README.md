@@ -3,6 +3,8 @@
 ## Methods
 |  Title  |   Venue  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [OS-R1: Agentic Operating System Kernel Tuning with Reinforcement Learning](https://arxiv.org/abs/2508.12551) <br> | arXiv | 2025.08 | General Kernel, OS Kernel |
+| [TimelyHLS: LLM-Based Timing-Aware and Architecture-Specific FPGA HLS Optimization](https://arxiv.org/pdf/2507.17962) <br> | arXiv | 2025.07 | Hardware_as_Code, HLS |
 | ![Star](https://img.shields.io/github/stars/AMD-AIG-AIMA/GEAK-agent.svg?style=social&label=Star) <br> [**GEAK: Introducing Triton Kernel AI Agent & Evaluation Benchmarks**](https://arxiv.org/abs/2507.23194) <br> | arXiv | 2025.07 | [Github](https://github.com/AMD-AIG-AIMA/GEAK-agent) | Triton (AMD), Iterative Search |
 | [**GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning**](https://arxiv.org/abs/2507.19457) <br> | arXiv | 2025.07 | - | AMD NPU + CUDA, Prompt Engineering |
 | ![Star](https://img.shields.io/github/stars/deepreinforce-ai/CUDA-L1.svg?style=social&label=Star) <br> [**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**](https://arxiv.org/abs/2507.14111) <br> | arXiv | 2025.07 | [Github](https://github.com/deepreinforce-ai/CUDA-L1) | CUDA, Reinforcement Learning |
