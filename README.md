@@ -12,6 +12,7 @@
 | [**AlphaEvolve: A coding agent for scientific and algorithmic discovery**](https://arxiv.org/abs/2506.13131) <br> | arXiv | 2025.06 | [Github](https://github.com/codelion/openevolve)[^1] | TPU, Agentic System |
 | [**CUDA-LLM: LLMs Can Write Efficient CUDA Kernels**](https://arxiv.org/abs/2506.09092) <br> | arXiv | 2025.06 | - | CUDA, Prompt Engineering (?) |
 | [**The AI CUDA Engineer: Agentic CUDA Kernel Discovery, Optimization and Composition**](https://pub.sakana.ai/ai-cuda-engineer) <br> | arXiv | 2025.02 | [HuggingFace](https://huggingface.co/datasets/SakanaAI/AI-CUDA-Engineer-Archive) | CUDA, Agent + Iterative Search + RAG |
+| [**ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing Functional Correctness?**](https://aclanthology.org/2024.emnlp-main.859/) (Waghjale et al., EMNLP 2024) <br> | EMNLP 2024 | 2024.11 | - | LLM4Code |
 
 [^1]: A public implementation of AlphaEvolve.
 
