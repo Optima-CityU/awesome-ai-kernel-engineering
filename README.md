@@ -3,6 +3,8 @@
 ## Methods
 |  Title  |   Venue  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Towards Agentic OS: An LLM Agent Framework for Linux Schedulers](https://arxiv.org/abs/2509.01245) | arXiv | 2025.09 | - | General Kernel, OS Schedule |
+| [SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization](https://arxiv.org/abs/2508.20258) | arXiv | 2025.08 | - | AMD GPU |
 | [CudaLLM: Training Language Models to Generate High-Performance CUDA Kernels](https://huggingface.co/ByteDance-Seed/cudaLLM-8B) <br> | HugginFace | 2025.08 | [Github](https://github.com/ByteDance-Seed/cudaLLM) | CUDA, Finetuning |
 | [OS-R1: Agentic Operating System Kernel Tuning with Reinforcement Learning](https://arxiv.org/abs/2508.12551) <br> | arXiv | 2025.08 | - | General Kernel, OS Kernel |
 | [TimelyHLS: LLM-Based Timing-Aware and Architecture-Specific FPGA HLS Optimization](https://arxiv.org/pdf/2507.17962) <br> | arXiv | 2025.07 | - | Hardware_as_Code, HLS |
