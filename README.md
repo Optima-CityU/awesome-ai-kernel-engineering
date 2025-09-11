@@ -3,6 +3,8 @@
 ## Methods
 |  Title  |   Venue  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Autonomous Code Evolution Meets NP-Completeness](https://arxiv.org/abs/2509.07367) | arXiv | 2025.09 | - | Nvidia Official |
+| [Astra: A Multi-Agent System for GPU Kernel Performance Optimization](https://arxiv.org/abs/2509.07506) | arXiv | 2025.09 | - | CUDA |
 | [Towards Agentic OS: An LLM Agent Framework for Linux Schedulers](https://arxiv.org/abs/2509.01245) | arXiv | 2025.09 | - | General Kernel, OS Schedule |
 | [SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization](https://arxiv.org/abs/2508.20258) | arXiv | 2025.08 | - | AMD GPU |
 | [CudaLLM: Training Language Models to Generate High-Performance CUDA Kernels](https://huggingface.co/ByteDance-Seed/cudaLLM-8B) <br> | HugginFace | 2025.08 | [Github](https://github.com/ByteDance-Seed/cudaLLM) | CUDA, Finetuning |
