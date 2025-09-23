@@ -3,6 +3,7 @@
 ## Methods
 |  Title  |   Venue  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Towards Robust Agentic CUDA Kernel Benchmarking, Verification, and Optimization](https://arxiv.org/abs/2509.14279) <br> | arXiv | 2025.09 | [Github](https://github.com/SakanaAI/robust-kbench) | CUDA |
 | [Autonomous Code Evolution Meets NP-Completeness](https://arxiv.org/abs/2509.07367) | arXiv | 2025.09 | - | Nvidia Official |
 | [Astra: A Multi-Agent System for GPU Kernel Performance Optimization](https://arxiv.org/abs/2509.07506) | arXiv | 2025.09 | - | CUDA |
 | [Towards Agentic OS: An LLM Agent Framework for Linux Schedulers](https://arxiv.org/abs/2509.01245) | arXiv | 2025.09 | - | General Kernel, OS Schedule |
