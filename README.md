@@ -3,6 +3,7 @@
 ## Methods
 |  Title  |   Venue  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [KFORGE: PROGRAM SYNTHESIS FOR DIVERSE AI HARDWARE ACCELERATORS](https://arxiv.org/pdf/2511.13274) | arXiv | 2025.11 | | CUDA |
 | [Towards Robust Agentic CUDA Kernel Benchmarking, Verification, and Optimization](https://arxiv.org/abs/2509.14279) <br> | arXiv | 2025.09 | [Github](https://github.com/SakanaAI/robust-kbench) | CUDA |
 | [Autonomous Code Evolution Meets NP-Completeness](https://arxiv.org/abs/2509.07367) | arXiv | 2025.09 | - | Nvidia Official |
 | [Astra: A Multi-Agent System for GPU Kernel Performance Optimization](https://arxiv.org/abs/2509.07506) | arXiv | 2025.09 | - | CUDA |
